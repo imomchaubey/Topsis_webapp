@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: Topsis-om-102317189
+Version: 0.1
+Summary: TOPSIS Implementation
+Author: om
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
